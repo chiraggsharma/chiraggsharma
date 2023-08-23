@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraggsharma&label=Profile%20views&color=0e75b6&style=flat" alt="chiraggsharma" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MEAN Stack**
 
 - 👨‍💻 All of my projects are available at [https://chiragsharma.info/](https://chiragsharma.info/)
 
