@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [https://chiragsharma.info/](https://chiragsharma.info/)
-
+- 👨‍💻 All of my projects are available at [https://chiraggsharma.github.io/chiraggsharma-Portfolio-website/](https://chiraggsharma.github.io/chiraggsharma-Portfolio-website/)
+  
 - ⚡ Fun fact **I love to try different technologies.**
 
 <h3 align="left">Connect with me:</h3>
